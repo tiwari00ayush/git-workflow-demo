@@ -1,1 +1,1 @@
-# Demo App
+# Sessions of git in POD
