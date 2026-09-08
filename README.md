@@ -1,1 +1,1 @@
-# POD Session
+# POD session | Git Master Class
