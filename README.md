@@ -1,1 +1,1 @@
-# Sessions of git in POD
+# POD session | Git Master Class
